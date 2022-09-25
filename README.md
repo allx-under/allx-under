@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oleksandr</h1>
-<h3 align="center">A frontend developer from Ukraine 🇺🇦</h3>
+<h3 align="center">A Full Stack developer from Ukraine 🇺🇦</h3>
 
 - 🌱 I’m currently learning **React, JS, Node.js**
 
